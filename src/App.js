@@ -23,6 +23,9 @@ function App() {
             <Route  path="/checkout">
              <Checkout /> 
             </Route>
+            <Route  path="/Thanks">
+             <Thanks /> 
+            </Route>
             <Route  path="/">
              <Product /> 
             </Route>
